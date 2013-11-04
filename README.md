@@ -1,0 +1,4 @@
+HelloMaven
+==========
+
+Maven exercise
